@@ -1,7 +1,11 @@
 # **Mirza Rendra Sjarief - Data Analyst / Data Engineer**
+
   **Welcome Good People!**
+  
 I’m *Mirza Rendra Sjarief*, a **Data Analyst** and **Data Engineer** passionate about transforming raw data into impactful insights. With powerful training from Hacktiv8’s Data Analytics comprehensive program and diverse experience across industries like digital marketing, and hospitality management busniness, I thrive on using data to solve real-world challenges and drive business decisions.
+
 ---
+
 ### **About Me**
 -  **Currently Learning**: real-time data engineering with Apache Airflow
 -  **Collaboration Interests**: Open to teaming up on end-to-end data solutions, from wrangling raw data to automated workflows for large datasets.
