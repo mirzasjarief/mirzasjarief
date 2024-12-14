@@ -2,7 +2,7 @@
 
   **Welcome Good People!**
   
-I’m *Mirza Rendra Sjarief*, a **Data Analyst** and **Data Engineer** passionate about transforming raw data into impactful insights. With powerful training from Hacktiv8’s Data Analytics comprehensive program and diverse experience across industries like digital marketing, and hospitality management business, I thrive on using data to solve real-world challenges and drive business decisions.
+I’m *Mirza Rendra Sjarief*, a **Data Analyst** and **Data Engineer** passionate about transforming raw data into impactful insights. With powerful training from Hacktiv8’s Data Analytics comprehensive program and diverse experience across industries like digital sales marketing, and hospitality business management. This unique blend enables me to bridge the gap between business strategy and data solutions. I specialize in data analysis, visualization, ETL pipeline development, and database management to deliver impactful data-driven outcomes to solve real-world challenges and drive business decisions.
 
 ---
 
