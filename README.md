@@ -12,7 +12,7 @@ I’m *Mirza Rendra Sjarief*, a **Data Analyst** and **Data Engineer** passionat
 -  **Background Insight**: My experience in digital marketing and sales gives me a unique perspective on how data drives business outcomes, fueling my passion for creating effective, data-driven solutions.
 ---
 ### 📫 **Connect with Me**
-- **LinkedIn**: [Connect on LinkedIn](www.linkedin.com/in/mirza-rendra-sjarief-839b90166/)
+- **LinkedIn**: [Connect on LinkedIn](www.linkedin.com/in/mirza-rendra-sjarief)
 - **Email**: mirzarendra@gmail.com
 ---
 ###  🛠 **Skills**
